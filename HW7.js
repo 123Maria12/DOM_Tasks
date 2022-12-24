@@ -19,4 +19,4 @@ else if ( arr[i] % 2 == 0) {
 }
 console.log('Amount of even elements = ' + summev);
 console.log('Amount of not even elements = ' + summnotev);
-console.log('Amounе of null elements: ' + nulls)
+console.log('Amount of null elements: ' + nulls)
