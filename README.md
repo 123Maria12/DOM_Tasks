@@ -1,4 +1,4 @@
-# module5_homework
+# Tasks about DOM
 Homework JavaScript
 My first steps on JavaScript :star:.
 
