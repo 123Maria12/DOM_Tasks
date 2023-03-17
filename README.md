@@ -1,4 +1,4 @@
-# Tasks about DOM
+# First tasks
 Homework JavaScript
 My first steps on JavaScript :star:.
 
